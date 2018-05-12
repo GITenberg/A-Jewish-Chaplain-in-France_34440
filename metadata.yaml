@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37025'
     url: http://www.gutenberg.org/2009/agents/37025
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34440#A-Jewish-Chaplain-in-France
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2010-11-25'
 gutenberg_type: Text
