@@ -1,0 +1,28 @@
+_repo: A-Jewish-Chaplain-in-France_34440
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Levinger, Lee J. (Lee Joseph)
+    alias: Levinger, Lee Joseph
+    birthdate: 1890
+    deathdate: 1966
+    gutenberg_agent_id: '37025'
+    url: http://www.gutenberg.org/2009/agents/37025
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2010-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34440'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Jews'
+title: A Jewish Chaplain in France
+url: http://www.gutenberg.org/ebooks/34440
